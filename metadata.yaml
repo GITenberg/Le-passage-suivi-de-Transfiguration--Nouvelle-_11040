@@ -1,0 +1,37 @@
+_repo: Le-passage-suivi-de-Transfiguration--Nouvelle-_11040
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Plan, Pierre-Paul
+    alias: Plan, P. -P. (Pierre-Paul)
+    birthdate: 1870
+    deathdate: 1951
+    gutenberg_agent_id: '26036'
+    url: http://www.gutenberg.org/2009/agents/26036
+creator:
+  author:
+    agent_name: Aleramo, Sibilla
+    alias: Faccio, Rina
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '3808'
+    url: http://www.gutenberg.org/2009/agents/3808
+    wikipedia: http://it.wikipedia.org/wiki/Sibilla_Aleramo
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouvelles
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11040'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- Translations into French'
+- GITenberg
+title: Le passage, suivi de Transfiguration (Nouvelle)
+url: http://www.gutenberg.org/ebooks/11040

@@ -1,5 +1,5 @@
 _repo: Le-passage-suivi-de-Transfiguration--Nouvelle-_11040
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Plan, Pierre-Paul
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '26036'
     url: http://www.gutenberg.org/2009/agents/26036
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aleramo, Sibilla
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3808
     wikipedia: http://it.wikipedia.org/wiki/Sibilla_Aleramo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11040#Le-passage-suivi-de-Transfiguration--Nouvelle-
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouvelles
